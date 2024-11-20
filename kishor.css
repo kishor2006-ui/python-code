@@ -1,0 +1,12 @@
+.one{
+    color: rgb(2, 234, 234);
+    border: solid;
+    border-color: black;
+    bor
+}
+p{
+    border-color: black;
+    border-width: 10px;
+    border: solid;
+    padding: 20px;
+}
